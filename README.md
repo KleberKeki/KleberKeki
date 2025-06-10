@@ -41,7 +41,7 @@ Nesta seção, você encontrará os projetos que desenvolvi para aplicar e demon
 * ### **Testes de API com Postman e REST Assured**
     * **Descrição:** Criação e automação de testes para uma API REST, validando os métodos GET, POST, PUT e DELETE, além de schemas e performance dos endpoints.
     * **Tecnologias:** `Postman`, `Java`, `REST Assured`, `JUnit`.
-    * **Link:** `[Ver no GitHub](URL_DO_SEU_PROJETO_AQUI)`
+    * **Link:** 
 
 ---
 ## 🎓 Formação Acadêmica
