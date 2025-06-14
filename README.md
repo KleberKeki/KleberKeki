@@ -2,7 +2,7 @@
 
 Olá! Sou Kleber Barbosa, um profissional apaixonado por tecnologia e resolução de problemas, atualmente em transição de carreira para a área de **Qualidade de Software (QA)**.
 
-Com uma bagagem de 10 anos como Professor de Música, desenvolvi uma forte disciplina, um olhar analítico e detalhista, e a habilidade de adaptar metodologias para diferentes cenários. Hoje, aplico essa mesma dedicação e foco para garantir a entrega de softwares robustos e de alta qualidade. Minha filosofia é que **"software bom não se entrega por sorte, se entrega por teste"**.
+Com uma bagagem de 10 anos como Professor de Música, desenvolvi uma forte disciplina, um olhar analítico e detalhista, e a habilidade de adaptar metodologias para diferentes cenários. Hoje, aplico essa mesma dedicação e foco para garantir a entrega de softwares robustos e de alta qualidade. Minha filosofia é que **"A qualidade do software não é um acidente; é o resultado de um processo de engenharia e testes rigorosos."**.
 
 Estou focado no desenvolvimento de competências práticas para minha primeira oportunidade como QA Júnior e atualmente curso duas pós-graduações para aprofundar meus conhecimentos:
 * **Engenharia de Software com Métodos Ágeis**
